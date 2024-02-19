@@ -1,0 +1,14 @@
+.navbar-1 {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.li-1 {
+  color: #222222;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: roboto;
+  margin: 10px;
+}

@@ -1,0 +1,13 @@
+.order-table {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+}
+.order-table-1 {
+  background-color: #ffffff;
+}
+.space {
+  margin: 10px;
+}
